@@ -1,0 +1,3 @@
+Section: Extended Producer Responsibility
+
+Extended Producer Responsibility means producers are responsible for managing plastic waste generated from the products they place in the market. Producers must track plastic quantities and support collection, recycling, or safe disposal.

@@ -1,0 +1,3 @@
+Section: Monthly Declaration
+
+Plastic producers should submit monthly declarations showing the quantity of plastic introduced into the market. These declarations help compliance teams monitor EPR obligations.

@@ -1,0 +1,3 @@
+Section: ERP Reconciliation
+
+Compliance teams should reconcile ERP procurement data with monthly declarations. If declared and procured quantities differ significantly, the mismatch should be reviewed before final compliance reporting.

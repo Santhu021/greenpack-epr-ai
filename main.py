@@ -26,7 +26,7 @@ import pandas as pd
 app = FastAPI()
 
 embedding_model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
+    "paraphrase-MiniLM-L3-v2"
 )
 
 documents = []
